@@ -1,0 +1,4 @@
+".\output\STARTUP.obj",
+".\output\hot.obj" 
+TO ".\output\hot" 
+PRINT(".\hot.m51") RAMSIZE(256) 

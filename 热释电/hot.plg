@@ -1,0 +1,57 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\write_1\Desktop\嵌入式\_2015美新杯\热释电\hot.uvproj
+Project File Date:  06/30/2015
+
+<h2>Output:</h2>
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling hot.c...
+hot.c(1): warning C500: LICENSE ERROR (R208: RENEW LICENSE ID CODE (LIC))
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_DELAY?HOT
+Program Size: data=9.0 xdata=0 code=56
+"hot" - 0 Error(s), 2 Warning(s).
+compiling hot.c...
+hot.c(1): warning C500: LICENSE ERROR (R208: RENEW LICENSE ID CODE (LIC))
+hot.c - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_DELAY?HOT
+Program Size: data=9.0 xdata=0 code=56
+creating hex file from ".\output\hot"...
+".\output\hot" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling hot.c...
+hot.c(1): warning C500: LICENSE ERROR (R208: RENEW LICENSE ID CODE (LIC))
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_DELAY?HOT
+Program Size: data=9.0 xdata=0 code=56
+creating hex file from ".\output\hot"...
+".\output\hot" - 0 Error(s), 2 Warning(s).
+compiling hot.c...
+hot.c(1): warning C500: LICENSE ERROR (R208: RENEW LICENSE ID CODE (LIC))
+hot.c - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_DELAY?HOT
+Program Size: data=9.0 xdata=0 code=56
+creating hex file from ".\output\hot"...
+".\output\hot" - 0 Error(s), 1 Warning(s).
+compiling hot.c...
+hot.c(1): warning C500: LICENSE ERROR (R208: RENEW LICENSE ID CODE (LIC))
+hot.c - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_DELAY?HOT
+Program Size: data=9.0 xdata=0 code=59
+creating hex file from ".\output\hot"...
+".\output\hot" - 0 Error(s), 1 Warning(s).
